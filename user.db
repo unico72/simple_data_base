@@ -1,0 +1,8 @@
+===TABLE=== user
+==COL== id 1
+==COL== login 2
+==COL== gender 3
+==DATA==
+0	admin	FALSE
+1	admin1	TRUE
+3	admin3	TRUE
